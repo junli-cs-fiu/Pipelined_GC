@@ -15,7 +15,7 @@ To implement and demonstrate PGC using a real distributed environment, we expect
 
 | **Item**               | **Description**                                          | **Estimated Cost (USD)** |
 | ---------------------- | -------------------------------------------------------- | ------------------------ |
-| Regular compute engine | $25$ $\times$ N2-HighMem-2 $24$ hours/day for $1$ months | $\$ 2476.01$             |
+| Regular compute engine | $25$ $\times$ N2-HighMem-2 $24$ hours/day for $1$ months | \$2476.01             |
 
 Table 1: Cost Estimation Table
 
